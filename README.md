@@ -1,3 +1,8 @@
+#About me
+Nama : Yusuf Qisthi Abdul Jabbar
+Universitas : Universitas Diponegoro
+Jurusan/angkatan : Informatika/2020
+
 Alien invasion is a game I made from following tutorial on "Python Crash Course" book.
 
 # About The Game
