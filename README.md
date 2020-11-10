@@ -43,3 +43,5 @@ settings.py = game settings
 ship.py = ship config
 
 PS. In 5 years I'm gonna make the ultra realistic version
+
+also currently making face mask detection
